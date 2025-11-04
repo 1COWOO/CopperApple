@@ -4,6 +4,8 @@ import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import com.github.kowoo.item.ModItems;
+import eu.pb4.polymer.core.api.item.SimplePolymerItem;
 
 public class CopperAppleMod implements ModInitializer {
 	public static final String MOD_ID = "copperapple-mod";
